@@ -1,0 +1,67 @@
+.sec{
+    background-image: url(image1.webp);
+    background-size: cover;
+    
+}
+.inbox1{
+    height: 400px;
+    padding-top: 100px;
+}
+
+.inbox2{
+   min-height: 450px;
+    /* background-color: red; */
+    margin-top: 10px;
+    
+}
+.inbox3{
+   min-height: 450px;
+    margin-top: 10px;
+    
+
+}
+.aa{
+    text-align: justify;
+    margin-left: 40px;
+}
+
+.bb{
+    text-align: center;
+    color: red;
+    
+}
+.inbox{
+    padding-top: 40px;
+}
+
+.inbox4{
+    height: 350px;
+    /* background-color: yellow; */
+}
+    
+
+.sec6{
+    background-color:rgba(255, 255, 0, 0.678);
+    margin-top: 50px;
+
+}
+
+.mm{
+    color: red;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 50px;
+}
+
+.ag{
+    background-color: gold;
+}
+
+
+.sec1{
+    background-color: yellow;
+    margin-top: 10px;
+}
+.m{
+    text-shadow: 0px 0px 10px green;
+}
